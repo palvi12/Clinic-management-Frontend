@@ -1,0 +1,10 @@
+
+![Add hospital](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/c5780ad2-16e1-4325-91e5-348a6fce247f)
+![Add City](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/9eecd1c1-4d87-4208-8b09-0dff6979e68d)
+![Add Patient](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/a5881dc7-a90b-4f46-b2cb-b2cb8d484bc9)
+![City Page](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/51616b1c-d0eb-4c7e-9e3c-42c86c8c7d3d)
+![Contact Page](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/98a3b440-d10a-44b1-b090-8c256d639234)
+![Footer Component](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/ca1828c2-472e-4645-9cda-5749f0b1b751)
+![Home Page](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/a616f83f-93fa-4117-9707-df9635208fd9)
+![hospital page](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/dadb6afe-256f-4cf4-8fdf-60be2399e178)
+![Patient Page](https://github.com/palvi12/Clinic-management-Frontend/assets/173877654/944fcc5e-f6f3-49af-ba8a-45245f14c74a)
